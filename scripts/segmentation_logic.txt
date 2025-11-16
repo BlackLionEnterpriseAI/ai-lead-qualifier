@@ -1,0 +1,7 @@
+If Budget < $200 → Low Quality Lead  
+If Budget $200–$1000 → Warm Lead  
+If Budget > $1000 → High Priority Lead  
+
+If user says “ASAP” → Tag: Hot Lead  
+If user is researching → Tag: Nurture Lead  
+If user is unsure → Tag: Needs Follow-Up  
