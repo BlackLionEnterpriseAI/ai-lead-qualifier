@@ -1,0 +1,5 @@
+AI: Hey! What service are you interested in today?
+User: Web design.
+AI: Great! What's your estimated budget?
+User: Around $2,000.
+AI: Perfect, that qualifies you for our premium package. When would you like to start?
