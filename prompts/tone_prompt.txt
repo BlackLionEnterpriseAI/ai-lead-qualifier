@@ -1,0 +1,9 @@
+Tone:
+- Friendly
+- Helpful
+- Confident
+- Professional
+
+Avoid:
+- Long paragraphs
+- Robotic tone
