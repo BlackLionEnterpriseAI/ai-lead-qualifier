@@ -1,0 +1,12 @@
+If High Priority:
+  - Send to Sales Team Inbox
+  - Notify via email/SMS
+  - Start same-day follow-up
+
+If Warm Lead:
+  - Offer to book an appointment
+  - Add to 24-hr follow-up sequence
+
+If Low Quality:
+  - Provide general info
+  - Add to nurture sequence
